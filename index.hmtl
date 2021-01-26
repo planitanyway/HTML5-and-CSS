@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<title>Your Project Name</title>
+</head>
+<body>
+
+<nav>
+    <a href="/Home/">Home</a> 
+    <a href="/About us/">About us</a> 
+    <a href="/Menu/">Menu</a> 
+    <a href="/Delight/">Delight</a>
+</nav>
+
+<a href="your-css-filename.css">
+
+<section>
+
+<h2>Discover</h2>
+
+</section>
+
+<header>
+
+<h1>Our Story</h1>
+
+</header>
+
+<article>
+
+<p>Lorem ipsum dolor sit amet consectetur adipsicing elit. Sed, commodi ullam consectetur molestiae, praesentium assumenda provident officiis earum voluptatem voluptatum libero facilis laudantium unde consequatur quibusdam laboriosam labore voluptatibus mollitia.</p>
+
+</article>
+
+<img src="/assets/our-story.jpg">
+
+<figcaption>Our restaurant</figcaption>
+
+<aside>
+<a href="/About us/">About us</a>
+
+<footer>Copyright 2021 - Designed with love by me</footer>
+
+</body>
+</html>
